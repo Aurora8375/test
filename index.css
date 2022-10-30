@@ -5,7 +5,9 @@ h1:nth-of-type(1) {
 .r1 {
     color: pink;
 }
-
+.p1{
+    color: red;
+}
 .b1 {
     color: black;
 }
