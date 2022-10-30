@@ -4,3 +4,6 @@ h1:nth-of-type(1){
 .r1{
     color: pink;
 }
+.r2{
+    color: rgb(187, 121, 121);
+}
