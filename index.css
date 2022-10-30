@@ -1,9 +1,16 @@
-h1:nth-of-type(1){
+h1:nth-of-type(1) {
     color: aqua;
 }
-.r1{
+
+.r1 {
     color: pink;
 }
 .r2{
     color: rgb(187, 121, 121);
+}
+.p1{
+    color: red;
+}
+.b1 {
+    color: black;
 }
